@@ -1,0 +1,49 @@
+.container{
+    max-width: 1000px;
+    align-items: center;
+    margin: auto;
+    padding: 20px;
+
+}
+h2{
+    margin: 20px  0px 20px;
+    padding:  0px 5px 0px ;
+    font-size: 2rem;
+    font-weight: 900;
+
+}
+.center {
+    display: block;
+    max-width: 800px;
+    max-height: 400px;
+    align-items: center;
+    margin: auto;
+
+}
+p{
+    font-size: 1.5rem;
+    padding: 5px;
+}
+#color-switch{
+    padding-top: 80px;
+    text-align: center;
+
+}
+.btn{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border: solid rgb(20, 21, 20) 2px ;
+    border-radius: 50%;
+    cursor: pointer;
+
+}
+#white{
+    background-color: white;
+}
+#black{
+    background-color: black;
+}
+#blue{
+    background-color: #0040ff;
+}
